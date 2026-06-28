@@ -4,7 +4,6 @@ Bike Sales Data Analysis
 📊 Dashboard
 ------------
 
-
 📌 Project Overview
 -------------------
 
